@@ -1,0 +1,65 @@
+.caja {
+    width: 800px;
+    height: 400px;
+    background-color: #849F6C;
+    padding: 20px;
+}
+.caja2 {
+    width: 800px;
+    height: 400px;
+    background-color: #849F6C;
+    border: 1px solid white;
+    position: relative;
+}
+.isquierda {
+    height: 200px;
+    width: 100px;
+    border: 1px solid white;
+    position: absolute;
+    top: 100px;
+}
+.centro {
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 100px;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+.derecha {
+    height: 200px;
+    width: 100px;
+    border: 1px solid white;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+.bola1 {
+    position: absolute;
+    top: 100px;
+    left: 90px;
+}
+.bola2 {
+    position: absolute;
+    top: 50px;
+    left: 450px;
+}
+.bola3 {
+    position: absolute;
+    top: 280px;
+    left: 675px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
